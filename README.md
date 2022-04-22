@@ -4,11 +4,14 @@ in natural language processing,
 and recently, the vision community also embraces this trend. 
 In 3D, actually there have been number of relevant attempts but lack of summary. 
 Therefore, this repository provides a paper collection of point cloud processing focusing on the following 2 aspects: 
-(i) Transformer-based models
-(ii) Unsupervised and Self-supervised methods. 
+
+1. Transformer-based models
+
+2. Unsupervised and Self-supervised methods. 
+
 `Venue` and `code` are attached to each paper. Following the `paper` link, you can also find its `.bib` file. 
 We will supplement new paper regularly. If you find some related and important paper absent in this collection, 
-feel free to start a pull request, or contact mr.sunhongyu@outlook.com. Welcome your contributions! :smiley:
+feel free to raise a pull request, or contact mr.sunhy@outlook.com. Welcome your contributions! :smiley:
 
 
 ## Transformer for Point Cloud Processing
