@@ -5,30 +5,12 @@ and recently, the vision community also embraces this trend.
 In 3D, actually there have been number of relevant attempts but lack of summary. 
 Therefore, this repository provides a paper collection of point cloud processing focusing on the following 2 aspects: 
 
-1. Transformer-based models
+* unsupervised and self-supervised methods 
+* Transformer-based models
 
-2. Unsupervised and Self-supervised methods. 
-
-`Venue` and `code` are attached to each paper. Following the `paper` link, you can also find its `.bib` file. 
+`Venue` and `Code` are attached to each paper. Following the `Paper` link, you can also find its `.bib` file. 
 We will supplement new paper regularly. If you find some related and important paper absent in this collection, 
 feel free to raise a pull request, or contact mr.sunhy@outlook.com. Welcome your contributions! :smiley:
-
-
-## Transformer for Point Cloud Processing
-| Paper      | Venue | Year | Code |
-| :----------- | :----------- | :-----------: | :-----------: |
-| [Embracing Single Stride 3D Object Detector with Sparse Transformer](https://arxiv.org/abs/2112.06375) | CVPR | 2022 | [link](https://github.com/TuSimple/SST) |
-| [Fast Point Transformer](https://arxiv.org/abs/2112.04702) | CVPR | 2022 | [link](https://github.com/POSTECH-CVLab/FastPointTransformer) |
-| [PVT: Point-Voxel Transformer for Point Cloud Learning](https://arxiv.org/abs/2108.06076) | ArXiv | 2022 | [link](https://github.com/HaochengWan/PVThttps://github.com/HaochengWan/PVT) |
-| [An End-to-End Transformer Model for 3D Object Detection](https://openaccess.thecvf.com/content/ICCV2021/html/Misra_An_End-to-End_Transformer_Model_for_3D_Object_Detection_ICCV_2021_paper.html) | ICCV | 2021 | [link](https://github.com/facebookresearch/3detr) |
-| [Point Transformer](https://openaccess.thecvf.com/content/ICCV2021/html/Zhao_Point_Transformer_ICCV_2021_paper.html) | ICCV | 2021 | [link](https://github.com/qq456cvb/Point-Transformers) |
-| [Voxel Transformer for 3D Object Detection](https://openaccess.thecvf.com/content/ICCV2021/html/Mao_Voxel_Transformer_for_3D_Object_Detection_ICCV_2021_paper.html) | ICCV | 2021 | [link](https://github.com/PointsCoder/VOTR) |
-| [3D Object Detection with Pointformer](https://openaccess.thecvf.com/content/CVPR2021/html/Pan_3D_Object_Detection_With_Pointformer_CVPR_2021_paper.html) | CVPR | 2021 | [link](https://github.com/Vladimir2506/Pointformer) |
-| [Improving 3D Object Detection with Channel-wise Transformer](https://openaccess.thecvf.com/content/ICCV2021/html/Sheng_Improving_3D_Object_Detection_With_Channel-Wise_Transformer_ICCV_2021_paper.html) | ICCV | 2021 | [link](https://github.com/hlsheng1/CT3D) |
-| [Group-Free 3D Object Detection via Transformers](https://openaccess.thecvf.com/content/ICCV2021/html/Liu_Group-Free_3D_Object_Detection_via_Transformers_ICCV_2021_paper.html) | ICCV | 2021 | [link](https://github.com/zeliu98/Group-Free-3D) |
-| [Cloud Transformers: A Universal Approach To Point Cloud Processing Tasks](https://openaccess.thecvf.com/content/ICCV2021/html/Mazur_Cloud_Transformers_A_Universal_Approach_to_Point_Cloud_Processing_Tasks_ICCV_2021_paper.html) | ICCV | 2021 | [link](https://github.com/saic-vul/cloud_transformers) |
-| [PCT: Point cloud transformer](https://link.springer.com/article/10.1007/s41095-021-0229-5) | CVM | 2021 | [link](https://github.com/Strawberry-Eat-Mango/PCT_Pytorch) |
-
 
 ## Unsupervised and Self-supervised Learning for Point Cloud Understanding
 | Paper      | Venue | Year | Code |
@@ -46,3 +28,19 @@ feel free to raise a pull request, or contact mr.sunhy@outlook.com. Welcome your
 | [Self-Supervised Few-Shot Learning on Point Clouds](https://proceedings.neurips.cc/paper/2020/hash/50c1f44e426560f3f2cdcb3e19e39903-Abstract.html) | NeurIPS | 2020 | [link](https://github.com/charusharma1991/SSL_PointClouds) |
 | [Self-Supervised Deep Learning on Point Clouds by Reconstructing Space](https://papers.nips.cc/paper/2019/hash/993edc98ca87f7e08494eec37fa836f7-Abstract.html) | NeurIPS | 2019 | [link]() |
 | [FoldingNet: Point Cloud Auto-encoder via Deep Grid Deformation](https://openaccess.thecvf.com/content_cvpr_2018/html/Yang_FoldingNet_Point_Cloud_CVPR_2018_paper.html) | CVPR | 2018 | [link](https://github.com/AnTao97/UnsupervisedPointCloudReconstruction) |
+
+
+## Transformer for Point Cloud Processing
+| Paper      | Venue | Year | Code |
+| :----------- | :----------- | :-----------: | :-----------: |
+| [Embracing Single Stride 3D Object Detector with Sparse Transformer](https://arxiv.org/abs/2112.06375) | CVPR | 2022 | [link](https://github.com/TuSimple/SST) |
+| [Fast Point Transformer](https://arxiv.org/abs/2112.04702) | CVPR | 2022 | [link](https://github.com/POSTECH-CVLab/FastPointTransformer) |
+| [PVT: Point-Voxel Transformer for Point Cloud Learning](https://arxiv.org/abs/2108.06076) | ArXiv | 2022 | [link](https://github.com/HaochengWan/PVThttps://github.com/HaochengWan/PVT) |
+| [An End-to-End Transformer Model for 3D Object Detection](https://openaccess.thecvf.com/content/ICCV2021/html/Misra_An_End-to-End_Transformer_Model_for_3D_Object_Detection_ICCV_2021_paper.html) | ICCV | 2021 | [link](https://github.com/facebookresearch/3detr) |
+| [Point Transformer](https://openaccess.thecvf.com/content/ICCV2021/html/Zhao_Point_Transformer_ICCV_2021_paper.html) | ICCV | 2021 | [link](https://github.com/qq456cvb/Point-Transformers) |
+| [Voxel Transformer for 3D Object Detection](https://openaccess.thecvf.com/content/ICCV2021/html/Mao_Voxel_Transformer_for_3D_Object_Detection_ICCV_2021_paper.html) | ICCV | 2021 | [link](https://github.com/PointsCoder/VOTR) |
+| [3D Object Detection with Pointformer](https://openaccess.thecvf.com/content/CVPR2021/html/Pan_3D_Object_Detection_With_Pointformer_CVPR_2021_paper.html) | CVPR | 2021 | [link](https://github.com/Vladimir2506/Pointformer) |
+| [Improving 3D Object Detection with Channel-wise Transformer](https://openaccess.thecvf.com/content/ICCV2021/html/Sheng_Improving_3D_Object_Detection_With_Channel-Wise_Transformer_ICCV_2021_paper.html) | ICCV | 2021 | [link](https://github.com/hlsheng1/CT3D) |
+| [Group-Free 3D Object Detection via Transformers](https://openaccess.thecvf.com/content/ICCV2021/html/Liu_Group-Free_3D_Object_Detection_via_Transformers_ICCV_2021_paper.html) | ICCV | 2021 | [link](https://github.com/zeliu98/Group-Free-3D) |
+| [Cloud Transformers: A Universal Approach To Point Cloud Processing Tasks](https://openaccess.thecvf.com/content/ICCV2021/html/Mazur_Cloud_Transformers_A_Universal_Approach_to_Point_Cloud_Processing_Tasks_ICCV_2021_paper.html) | ICCV | 2021 | [link](https://github.com/saic-vul/cloud_transformers) |
+| [PCT: Point cloud transformer](https://link.springer.com/article/10.1007/s41095-021-0229-5) | CVM | 2021 | [link](https://github.com/Strawberry-Eat-Mango/PCT_Pytorch) |
