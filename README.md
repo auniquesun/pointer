@@ -10,7 +10,9 @@ Therefore, this repository provides a paper collection of point cloud processing
 
 `Venue` and `Code` are attached to each paper. Following the `Paper` link, you can also find its `.bib` file. 
 We will supplement new paper regularly. If you find some related and important paper absent in this collection, 
-feel free to raise a pull request, or contact Mr.sunhy@outlook.com. Welcome your contributions! :smiley:
+feel free to raise a pull request, or contact Mr.sunhy@outlook.com. 
+
+Welcome your contributions! :smiley:
 
 ## Unsupervised and Self-supervised Learning for Point Cloud Understanding
 | Paper      | Venue | Year | Code |
