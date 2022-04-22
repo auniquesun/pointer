@@ -1,15 +1,22 @@
-### Introduction
-This repository provides a paper collection of Transformer-based point cloud processing. Venue and code are attached to each paper. 
-We will supplement new contents regularly. If you find an important paper not included in this project, feel free to pull a request! 
+## Introduction
+Since the Transformer architecture and self-supervised learning have witnessed the overwhelming applications 
+in natural language processing, 
+and recently, the vision community also embraces this trend. 
+In 3D, actually there have been number of relevant attempts but lack of summary. 
+Therefore, this repository provides a paper collection of point cloud processing focusing on the following 2 aspects: 
+(i) Transformer-based models
+(ii) Unsupervised and Self-supervised methods. 
+`Venue` and `code` are attached to each paper. Following the `paper` link, you can also find its `.bib` file. 
+We will supplement new paper regularly. If you find some related and important paper absent in this collection, 
+feel free to start a pull request, or contact mr.sunhongyu@outlook.com. Welcome your contributions! :smiley:
 
-#### Classification
 
-#### Object Detection
+## Transformer for Point Cloud Processing
 | Paper      | Venue | Year | Code |
 | :----------- | :----------- | :-----------: | :-----------: |
 | [Embracing Single Stride 3D Object Detector with Sparse Transformer](https://arxiv.org/abs/2112.06375) | CVPR | 2022 | [link](https://github.com/TuSimple/SST) |
-| [Fast Point Transformer](https://arxiv.org/abs/2112.04702) | Arxiv | 2022 | [link]() |
-| [PVT: Point-Voxel Transformer for Point Cloud Learning](https://arxiv.org/abs/2108.06076) | Arxiv | 2022 | [link]() |
+| [Fast Point Transformer](https://arxiv.org/abs/2112.04702) | CVPR | 2022 | [link](https://github.com/POSTECH-CVLab/FastPointTransformer) |
+| [PVT: Point-Voxel Transformer for Point Cloud Learning](https://arxiv.org/abs/2108.06076) | ArXiv | 2022 | [link](https://github.com/HaochengWan/PVThttps://github.com/HaochengWan/PVT) |
 | [An End-to-End Transformer Model for 3D Object Detection](https://openaccess.thecvf.com/content/ICCV2021/html/Misra_An_End-to-End_Transformer_Model_for_3D_Object_Detection_ICCV_2021_paper.html) | ICCV | 2021 | [link](https://github.com/facebookresearch/3detr) |
 | [Point Transformer](https://openaccess.thecvf.com/content/ICCV2021/html/Zhao_Point_Transformer_ICCV_2021_paper.html) | ICCV | 2021 | [link](https://github.com/qq456cvb/Point-Transformers) |
 | [Voxel Transformer for 3D Object Detection](https://openaccess.thecvf.com/content/ICCV2021/html/Mao_Voxel_Transformer_for_3D_Object_Detection_ICCV_2021_paper.html) | ICCV | 2021 | [link](https://github.com/PointsCoder/VOTR) |
@@ -20,6 +27,19 @@ We will supplement new contents regularly. If you find an important paper not in
 | [PCT: Point cloud transformer](https://link.springer.com/article/10.1007/s41095-021-0229-5) | CVM | 2021 | [link](https://github.com/Strawberry-Eat-Mango/PCT_Pytorch) |
 
 
-#### Part Segmentation
-
-#### Semantic Segmentation
+## Unsupervised and Self-supervised Learning for Point Cloud Understanding
+| Paper      | Venue | Year | Code |
+| :----------- | :----------- | :-----------: | :-----------: |
+| [Point-Bert: Pre-training 3D Point Cloud Transformers with Masked Point Modeling]() | CVPR | 2022 | [link](https://github.com/lulutang0608/Point-BERT) |
+| [CrossPoint: Self-Supervised Cross-Modal Contrastive Learning for 3D Point Cloud Understanding]() | CVPR | 2022 | [link](https://github.com/MohamedAfham/CrossPoint) |
+| [Contrastive Boundary Learning for Point Cloud Segmentation]() | CVPR | 2022 | [link](https://github.com/LiyaoTang/contrastBoundary) |
+| [SegContrast: 3D Point Cloud Feature Representation Learning Through Self-Supervised Segment Discrimination](https://ieeexplore.ieee.org/document/9681336/) | RAL | 2022 | [link](https://github.com/PRBonn/segcontrast) |
+| [Exploring Data-Efficient 3D Scene Understanding with Contrastive Scene Contexts](https://openaccess.thecvf.com/content/CVPR2021/html/Hou_Exploring_Data-Efficient_3D_Scene_Understanding_With_Contrastive_Scene_Contexts_CVPR_2021_paper.html) | CVPR | 2021 | [link](https://github.com/facebookresearch/ContrastiveSceneContexts) |
+| [Self-Supervised Learning on 3D Point Clouds by Learning Discrete Generative Models]() | CVPR | 2021 | [link]() |
+| [PoinTr: Diverse Point Cloud Completion with Geometry-Aware Transformers](https://openaccess.thecvf.com/content/ICCV2021/html/Yu_PoinTr_Diverse_Point_Cloud_Completion_With_Geometry-Aware_Transformers_ICCV_2021_paper.html) | ICCV | 2021 | [link](https://github.com/yuxumin/PoinTr) |
+| [Self-Supervised Pretraining of 3D Features on any Point-Cloud](https://openaccess.thecvf.com/content/ICCV2021/html/Zhang_Self-Supervised_Pretraining_of_3D_Features_on_Any_Point-Cloud_ICCV_2021_paper.html) | ICCV | 2021 | [link](https://github.com/facebookresearch/DepthContrast) |
+| [Unsupervised Point Cloud Pre-training via Occlusion Completion](https://openaccess.thecvf.com/content/ICCV2021/html/Wang_Unsupervised_Point_Cloud_Pre-Training_via_Occlusion_Completion_ICCV_2021_paper.html) | ICCV | 2021 | [link](https://github.com/hansen7/OcCo) |
+| [PointContrast: Unsupervised Pre-training for 3D Point Cloud Understanding](https://link.springer.com/chapter/10.1007/978-3-030-58580-8_34) | ECCV | 2020 | [link](https://github.com/facebookresearch/PointContrast) |
+| [Self-Supervised Few-Shot Learning on Point Clouds](https://proceedings.neurips.cc/paper/2020/hash/50c1f44e426560f3f2cdcb3e19e39903-Abstract.html) | NeurIPS | 2020 | [link](https://github.com/charusharma1991/SSL_PointClouds) |
+| [Self-Supervised Deep Learning on Point Clouds by Reconstructing Space](https://papers.nips.cc/paper/2019/hash/993edc98ca87f7e08494eec37fa836f7-Abstract.html) | NeurIPS | 2019 | [link]() |
+| [FoldingNet: Point Cloud Auto-encoder via Deep Grid Deformation](https://openaccess.thecvf.com/content_cvpr_2018/html/Yang_FoldingNet_Point_Cloud_CVPR_2018_paper.html) | CVPR | 2018 | [link](https://github.com/AnTao97/UnsupervisedPointCloudReconstruction) |
