@@ -30,6 +30,9 @@ Welcome your contributions! :smiley:
 | [Self-Supervised Few-Shot Learning on Point Clouds](https://proceedings.neurips.cc/paper/2020/hash/50c1f44e426560f3f2cdcb3e19e39903-Abstract.html) | NeurIPS | 2020 | [link](https://github.com/charusharma1991/SSL_PointClouds) |
 | [Self-Supervised Deep Learning on Point Clouds by Reconstructing Space](https://papers.nips.cc/paper/2019/hash/993edc98ca87f7e08494eec37fa836f7-Abstract.html) | NeurIPS | 2019 | [link]() |
 | [FoldingNet: Point Cloud Auto-encoder via Deep Grid Deformation](https://openaccess.thecvf.com/content_cvpr_2018/html/Yang_FoldingNet_Point_Cloud_CVPR_2018_paper.html) | CVPR | 2018 | [link](https://github.com/AnTao97/UnsupervisedPointCloudReconstruction) |
+| [Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling](https://papers.nips.cc/paper/2016/hash/44f683a84163b3523afe57c2e008bc8c-Abstract.html) | NIPS | 2016 | [link](https://github.com/black0017/3D-GAN-pytorch) |
+| [Learning Representations and Generative Models for 3D Point Clouds](http://proceedings.mlr.press/v80/achlioptas18a.html) | ICML | 2018 | [link](https://github.com/optas/latent_3d_points) |
+| [View inter-prediction GAN: unsupervised representation learning for 3D shapes by learning global shape memories to support local view predictions](https://dl.acm.org/doi/10.1609/aaai.v33i01.33018376) | AAAI | 2019 | None |
 
 
 ## Transformer for Point Cloud Processing
