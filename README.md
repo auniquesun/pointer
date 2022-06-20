@@ -14,6 +14,16 @@ feel free to raise a pull request, or contact Mr.sunhy@outlook.com.
 
 Welcome your contributions! :smiley:
 
+## Datasets
+| Paper      | Venue | Year | Code |
+| :----------- | :----------- | :-----------: | :-----------: |
+| [ModelNet](https://openaccess.thecvf.com/content_cvpr_2015/html/Wu_3D_ShapeNets_A_2015_CVPR_paper.html) | CVPR | 2015 | [link](https://shapenet.org/) |
+| [ScanObjectNN](https://openaccess.thecvf.com/content_ICCV_2019/html/Uy_Revisiting_Point_Cloud_Classification_A_New_Benchmark_Dataset_and_Classification_ICCV_2019_paper.html) | ICCV | 2019 | [link](https://hkust-vgd.github.io/scanobjectnn/) |
+| [ShapeNet](https://arxiv.org/abs/1512.03012) | ArXiv | 2015 | [link](https://shapenet.org/) |
+| [S3DIS: Joint 2D-3D-Semantic Data for Indoor Scene Understanding](http://buildingparser.stanford.edu/dataset.html) | ArXiv | 2017 | [link](https://github.com/alexsax/2D-3D-Semantics) |
+| [ScanNet](https://openaccess.thecvf.com/content_cvpr_2017/html/Dai_ScanNet_Richly-Annotated_3D_CVPR_2017_paper.html) | CVPR | 2017 | [link](http://www.scan-net.org/) |
+
+
 ## Basics
 | Paper      | Venue | Year | Code |
 | :----------- | :----------- | :-----------: | :-----------: |
@@ -23,6 +33,7 @@ Welcome your contributions! :smiley:
 | [KPConv: Flexible and Deformable Convolution for Point Clouds](https://openaccess.thecvf.com/content_ICCV_2019/html/Thomas_KPConv_Flexible_and_Deformable_Convolution_for_Point_Clouds_ICCV_2019_paper.html) | ICCV | 2019 | [link](https://github.com/HuguesTHOMAS/KPConv) |
 | [Walk in the Cloud: Learning Curves for Point Clouds Shape Analysis](https://openaccess.thecvf.com/content/ICCV2021/html/Xiang_Walk_in_the_Cloud_Learning_Curves_for_Point_Clouds_Shape_ICCV_2021_paper.html) | ICCV | 2021 | [link](https://github.com/tiangexiang/CurveNet) |
 | [Rethinking Network Design and Local Geometry in Point Cloud: A Simple Residual MLP Framework](https://openreview.net/forum?id=3Pbra-_u76D) | ICLR | 2022 | [link](https://github.com/ma-xu/pointMLP-pytorch) |
+
 
 ## Unsupervised and Self-supervised Learning for Point Cloud Understanding
 | Paper      | Venue | Year | Code |
