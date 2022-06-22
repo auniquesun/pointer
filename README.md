@@ -17,11 +17,11 @@ Welcome your contributions! :smiley:
 ## Datasets
 | Paper      | Venue | Year | Code |
 | :----------- | :----------- | :-----------: | :-----------: |
-| [ModelNet](https://openaccess.thecvf.com/content_cvpr_2015/html/Wu_3D_ShapeNets_A_2015_CVPR_paper.html) | CVPR | 2015 | [link](https://shapenet.org/) |
-| [ScanObjectNN](https://openaccess.thecvf.com/content_ICCV_2019/html/Uy_Revisiting_Point_Cloud_Classification_A_New_Benchmark_Dataset_and_Classification_ICCV_2019_paper.html) | ICCV | 2019 | [link](https://hkust-vgd.github.io/scanobjectnn/) |
-| [ShapeNet](https://arxiv.org/abs/1512.03012) | ArXiv | 2015 | [link](https://shapenet.org/) |
+| [ModelNet - 3D ShapeNets: A Deep Representation for Volumetric Shapes](https://openaccess.thecvf.com/content_cvpr_2015/html/Wu_3D_ShapeNets_A_2015_CVPR_paper.html) | CVPR | 2015 | [link](https://shapenet.org/) |
+| [ScanObjectNN - Revisiting Point Cloud Classification: A New Benchmark Dataset and Classification Model on Real-World Data](https://openaccess.thecvf.com/content_ICCV_2019/html/Uy_Revisiting_Point_Cloud_Classification_A_New_Benchmark_Dataset_and_Classification_ICCV_2019_paper.html) | ICCV | 2019 | [link](https://hkust-vgd.github.io/scanobjectnn/) |
+| [ShapeNet: An Information-Rich 3D Model Repository](https://arxiv.org/abs/1512.03012) | ArXiv | 2015 | [link](https://shapenet.org/) |
 | [S3DIS: Joint 2D-3D-Semantic Data for Indoor Scene Understanding](http://buildingparser.stanford.edu/dataset.html) | ArXiv | 2017 | [link](https://github.com/alexsax/2D-3D-Semantics) |
-| [ScanNet](https://openaccess.thecvf.com/content_cvpr_2017/html/Dai_ScanNet_Richly-Annotated_3D_CVPR_2017_paper.html) | CVPR | 2017 | [link](http://www.scan-net.org/) |
+| [ScanNet: Richly-Annotated 3D Reconstructions of Indoor Scenes](https://openaccess.thecvf.com/content_cvpr_2017/html/Dai_ScanNet_Richly-Annotated_3D_CVPR_2017_paper.html) | CVPR | 2017 | [link](http://www.scan-net.org/) |
 
 
 ## Basics
